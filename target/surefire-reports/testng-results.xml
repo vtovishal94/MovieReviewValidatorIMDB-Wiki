@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T23:36:44 IST" name="MovieRTest" finished-at="2022-06-12T23:39:08 IST" duration-ms="144527">
+    <groups>
+    </groups>
+    <test started-at="2022-06-12T23:36:44 IST" name="MovieReview Test" finished-at="2022-06-12T23:39:08 IST" duration-ms="144527">
+      <class name="com.ReviewTest.testCases.MovieReviewTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ReviewTest.testCases.MovieReviewTest@4ddced80]" started-at="2022-06-12T23:36:44 IST" name="setup" finished-at="2022-06-12T23:37:09 IST" duration-ms="24941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ImdbSearchTest()[pri:0, instance:com.ReviewTest.testCases.MovieReviewTest@4ddced80]" started-at="2022-06-12T23:37:09 IST" name="ImdbSearchTest" finished-at="2022-06-12T23:37:52 IST" duration-ms="42929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImdbSearchTest -->
+        <test-method signature="verifyImdbMovieReviewDetails()[pri:0, instance:com.ReviewTest.testCases.MovieReviewTest@4ddced80]" started-at="2022-06-12T23:37:52 IST" name="verifyImdbMovieReviewDetails" finished-at="2022-06-12T23:38:28 IST" duration-ms="35766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImdbMovieReviewDetails -->
+        <test-method signature="testingWikiReviewDetails()[pri:0, instance:com.ReviewTest.testCases.MovieReviewTest@4ddced80]" started-at="2022-06-12T23:38:28 IST" name="testingWikiReviewDetails" finished-at="2022-06-12T23:39:07 IST" depends-on-methods="com.ReviewTest.testCases.MovieReviewTest.verifyImdbMovieReviewDetails" duration-ms="39000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingWikiReviewDetails -->
+        <test-method signature="verifyReleaseDateOnIMDBAndWiki()[pri:0, instance:com.ReviewTest.testCases.MovieReviewTest@4ddced80]" started-at="2022-06-12T23:39:07 IST" name="verifyReleaseDateOnIMDBAndWiki" finished-at="2022-06-12T23:39:07 IST" depends-on-methods="com.ReviewTest.testCases.MovieReviewTest.testingWikiReviewDetails" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReleaseDateOnIMDBAndWiki -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ReviewTest.testCases.MovieReviewTest@4ddced80]" started-at="2022-06-12T23:39:07 IST" name="tearDown" finished-at="2022-06-12T23:39:08 IST" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ReviewTest.testCases.MovieReviewTest -->
+    </test> <!-- MovieReview Test -->
+  </suite> <!-- MovieRTest -->
+</testng-results>

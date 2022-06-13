@@ -1,0 +1,125 @@
+2022-06-12 11:49:11,178 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 11:49:12,982 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 11:49:41,631 - Moview Review check -INFO - First suggestion selected
+2022-06-12 11:49:41,876 - Moview Review check -INFO - Page title of searched movie is matched 
+2022-06-12 11:49:41,964 - Moview Review check -INFO - Page title of searched movie is matched 
+2022-06-12 11:50:05,354 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 11:50:06,118 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 11:50:22,299 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 11:50:22,441 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 11:50:27,935 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 11:50:28,127 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 11:50:28,174 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 11:50:28,185 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page
+2022-06-12 11:58:38,370 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 11:58:46,944 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 11:59:39,281 - Moview Review check -INFO - First suggestion selected
+2022-06-12 11:59:39,566 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 11:59:39,665 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 12:00:13,560 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 12:00:14,427 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 12:00:36,494 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 12:00:36,888 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 12:00:43,385 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 12:00:44,222 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 12:00:44,574 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 12:00:44,591 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 12:00:44,593 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 12:04:56,571 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 12:04:58,200 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 12:05:11,613 - Moview Review check -INFO - First suggestion selected
+2022-06-12 12:05:11,668 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 12:05:11,778 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 12:05:35,076 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 12:05:36,109 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 12:05:57,295 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 12:05:57,600 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 12:06:03,714 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 12:06:03,946 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 12:06:03,999 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 12:06:04,008 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 12:06:04,009 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 12:27:01,089 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 12:27:01,894 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 12:27:32,346 - Moview Review check -INFO - First suggestion selected
+2022-06-12 12:27:32,406 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 12:27:32,446 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 13:37:51,683 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 13:37:52,958 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 13:38:27,908 - Moview Review check -INFO - First suggestion selected
+2022-06-12 13:38:28,057 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 13:38:28,099 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 13:39:02,503 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 13:39:03,054 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 13:39:16,715 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 13:39:16,900 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 14:08:09,274 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 14:08:11,330 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 14:08:55,867 - Moview Review check -INFO - First suggestion selected
+2022-06-12 14:08:55,929 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 14:08:55,985 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 14:09:48,667 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 14:09:49,185 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 14:09:53,196 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 14:09:56,366 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 14:10:20,748 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 14:10:20,943 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 14:10:20,983 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 14:10:20,988 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 14:10:20,989 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 14:32:11,580 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 14:32:13,059 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 14:32:21,269 - Moview Review check -INFO - First suggestion selected
+2022-06-12 14:32:21,512 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 14:32:21,567 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 14:32:44,868 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 14:32:45,497 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 14:32:55,725 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 14:32:59,007 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 14:33:04,956 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 14:33:05,542 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 14:33:05,592 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 14:33:05,602 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 14:33:05,604 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 16:52:46,756 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 16:53:04,184 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 16:53:20,309 - Moview Review check -INFO - First suggestion selected
+2022-06-12 16:53:20,518 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 16:53:20,804 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 16:53:42,071 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 16:53:42,824 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 16:53:55,563 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 16:53:58,763 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 16:54:04,881 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 16:54:05,639 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 16:54:05,685 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 16:54:05,691 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 16:54:05,692 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 22:12:07,669 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 22:12:16,978 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 22:12:28,677 - Moview Review check -INFO - First suggestion selected
+2022-06-12 22:12:28,742 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 22:12:28,809 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 22:12:53,820 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 22:12:54,409 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 22:13:06,953 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 22:13:10,107 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 22:13:15,356 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 22:13:15,947 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 22:13:16,028 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 22:13:16,032 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 22:13:16,033 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 23:37:24,161 - Moview Review check -INFO - IMDB Web URL opened
+2022-06-12 23:37:28,888 - Moview Review check -INFO - Movie Name enter into IMDB Search Box
+2022-06-12 23:37:52,216 - Moview Review check -INFO - First suggestion selected
+2022-06-12 23:37:52,277 - Moview Review check -INFO - Page title of searched movie is matched on IMDB result page
+2022-06-12 23:37:52,401 - Moview Review check -INFO - Page title of searched movie is matched on Result page 
+2022-06-12 23:38:28,033 - Moview Review check -INFO - Release Date of IMDB searched movie is captured 
+2022-06-12 23:38:29,012 - Moview Review check -INFO - Window is maximized for next wiki URL page 
+2022-06-12 23:38:52,524 - Moview Review check -INFO - Page is now navigated to wikipedia url 
+2022-06-12 23:38:57,829 - Moview Review check -INFO - Movie name is entered into wiki search box 
+2022-06-12 23:39:06,228 - Moview Review check -INFO - First suggestion of wiki entered movie is selected 
+2022-06-12 23:39:07,060 - Moview Review check -INFO - Wiki searched movie release date is captured 
+2022-06-12 23:39:07,119 - Moview Review check -INFO - Wiki searched movie country is captured 
+2022-06-12 23:39:07,123 - Moview Review check -INFO - Extracted Release date is matched on both IMDB & Wikipedia page for given movie
+2022-06-12 23:39:07,124 - Moview Review check -INFO - Extracted Country date is matched on both IMDB & Wikipedia page for given movie

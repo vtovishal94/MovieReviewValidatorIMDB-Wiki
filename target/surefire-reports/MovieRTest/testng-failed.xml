@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MovieRTest]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="MovieReview Test(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ReviewTest.testCases.MovieReviewTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testingWikiReviewDetails"/>
+          <include name="setup"/>
+          <include name="ImdbSearchTest"/>
+          <include name="verifyImdbMovieReviewDetails"/>
+          <include name="verifyReleaseDateOnIMDBAndWiki"/>
+        </methods>
+      </class> <!-- com.ReviewTest.testCases.MovieReviewTest -->
+    </classes>
+  </test> <!-- MovieReview Test(failed) -->
+</suite> <!-- Failed suite [MovieRTest] -->

@@ -1,0 +1,7 @@
+com\ReviewTest\testCases\BaseClass.class
+com\ReviewTest\testCases\MovieReviewTest.class
+com\FilmReviewCheck\pageObjects\WikiResultPage.class
+com\FilmReviewCheck\pageObjects\IMDBHomeSearchPage.class
+com\FilmReviewCheck\pageObjects\WikiSearchPage.class
+com\FilmReviewCheck\Utilities\ReadConfig.class
+com\FilmReviewCheck\pageObjects\IMDBResultPage.class
